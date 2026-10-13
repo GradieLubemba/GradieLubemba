@@ -1,16 +1,19 @@
 ## Hi there 👋
+ I'm Gradie Lubemba
 
-<!--
-**GradieLubemba/GradieLubemba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Bellevue College interested in IT Support, Cloud Computing, and Technical Operations.
 
-Here are some ideas to get you started:
+## Skills
+- Python, C++
+- IT troubleshooting and technical support
+- Git and GitHub
+- Basic system monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **System Health Checker** — A Python tool for monitoring system resources.
+- **Event Horizon** — A collaborative scheduling and task management project.
+
+## Currently Learning
+- AWS Cloud Computing
+- Cybersecurity fundamentals
+- IT infrastructure and support
